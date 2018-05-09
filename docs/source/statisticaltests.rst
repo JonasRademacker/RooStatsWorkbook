@@ -553,7 +553,7 @@ The introduction of composite hypotheses in Bayesian statistics transforms Bayes
 
 .. [#] To facilitate the distinction between symbolic constant expressions (a known background) and symbolic parameters (an unknown background) all constant symbols are marked with a tilde: i.e. :math:`\tilde{a}` is constant expression, whereas :math:`a` is a parameter.
 
-.. [#] An notable example of a distribution that has no well-defined mean or variance is the non-relativistic Breit-Wigner distribution.
+.. [#] An notable example of a distribution that has no well-defined variance is the non-relativistic Breit-Wigner distribution.
 
 
 Statistical inference with nuisance parameters
